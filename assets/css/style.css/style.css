@@ -1,0 +1,86 @@
+li{ 
+    padding-top: 10px;
+    padding-right: 70px;
+    display: inline-block;
+}
+
+ul{
+    word-spacing: 0px;
+    float: right;
+}
+
+a:link{
+    text-decoration: none;
+}
+
+body{
+    background-color: rgb(189, 183, 175);
+    margin: 0px;
+}
+
+header{
+    color: rgb(8, 0, 0);
+    background-color: rgb(252, 249, 249);
+    border-bottom: 2px solid gray;
+    margin: 0px;
+    padding-left: 130px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+img{
+    float: left;
+    padding-right: 30px
+}
+
+section {
+    border: .5px solid rgb(172, 170, 170);
+    padding: 40px;
+    padding-top: 20px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-right: 150px;
+    margin-left: 150px;
+    background-color: rgb(241, 244, 245);
+    height: 500px;
+}
+
+.portfolio{
+    height: 960px;
+}
+
+#contact{
+    height: 540px;
+}
+
+hr {
+    color: gray;
+    border-style: solid;
+    border-width: 2px;
+    border-radius: 15px;
+}
+.img1 {
+    float: left;
+    clear: right;
+    margin: 20px;
+}
+
+.img2 {
+    margin: 20px
+}
+
+.img3 {
+    float: left;
+    clear: left;
+    margin: 20px;
+}
+
+.img4 {
+    margin: 20px;
+}
+
+.img5{
+    float: left;
+    clear: left;
+    margin: 20px;
+}
